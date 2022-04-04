@@ -2,7 +2,10 @@
 
 
 
-## Di buat dengan Laravel 9 dan Laravel Livewire
+## Di buat dengan: 
+Laravel 9
+Laravel UI
+Laravel Livewire
 
     https://laravel-livewire.com/
     
